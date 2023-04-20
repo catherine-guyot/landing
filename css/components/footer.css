@@ -1,0 +1,18 @@
+.footer {
+  background-color: rgb(70,70,70);
+  height: 200px;
+  text-align: center;
+}
+
+.footer a {
+  color:rgb(0, 128, 45);
+  font-size: 40px;
+}
+
+.fa-heart {
+  color: red;
+}
+
+.footer-links{
+  padding:15px;
+}
